@@ -4,3 +4,5 @@ streamlit
 scikit-learn
 pip==24.3.1
 matplotlib
+seaborn
+geopandas
